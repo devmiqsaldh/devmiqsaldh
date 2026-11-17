@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mika 👋</h1>
+<h1 align="center">Hi, I'm Miqueias 👋</h1>
 
 <p align="center">
   iOS Developer · Apple Developer Academy | Mackenzie · Computer Engineering @ Mackenzie<br>
@@ -43,7 +43,7 @@ I care about clean architecture (MVVM), unit tests for the logic I write, and do
 | **[Braider](https://apps.apple.com/br/app/braider/id6810110435)** | iOS app for hair braiders: schedule, booking page and deposits in one place. Live on the App Store, with subscriptions (StoreKit 2) and delivery to TestFlight on every merge with Xcode Cloud. Website: [braiderapp.com.br](https://braiderapp.com.br). Private code. |
 | **[Miio](https://github.com/devmiqsaldh/Miio)** | Personal journal with photos, location and AI-suggested tags, which you can write in with your voice through Siri (App Intents). |
 | **[BREATHFIELD](https://github.com/devmiqsaldh/BREATHFIELD)** | Anti-stress interactive experience in SpriteKit: a particle field that only settles when you slow down. Custom procedural physics. |
-| **[Terminal Typing](https://github.com/devmiqsaldh/Terminal-Typing)** | Typing game for the terminal in Swift, built in a team: my first Swift project. |
+| **[Terminal Typing](https://github.com/devmiqsaldh/Terminal-Typing)** | Rhythm game for the macOS terminal in pure Swift: hit D, F, J and K in sync with the music. My first Swift project, built in a team. |
 
 ## Awards
 
